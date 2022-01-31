@@ -313,6 +313,13 @@ p a {
   margin-bottom: 44px;
 }
 
+.speaker-info img {
+  border-radius: 50%;
+  height: 130px;
+  margin: -66px 0 22px 0;
+  vertical-align: top;
+}
+
 .teaser img {
   border-radius: 5px;
   display: block;
